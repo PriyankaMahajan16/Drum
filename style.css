@@ -50,6 +50,8 @@ footer {
 
 .set {
   margin: 10% auto;
+  position: relative;
+  left: 80px;
 }/*Space between elements*/
 
 .drum {

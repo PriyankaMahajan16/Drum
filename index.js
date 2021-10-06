@@ -8,5 +8,4 @@
 }*/
 
 
-var audio1 = new Audio("sounds/crash.mp3");
-document.querySelectorAll(".drum")[0].addEventListener("click", function(){audio1.play();});
+document.querySelectorAll(".drum")[0].addEventListener("click", function(){new Audio("sounds/crash.mp3").play();});

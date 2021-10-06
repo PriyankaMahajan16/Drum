@@ -1,4 +1,8 @@
-document.querySelectorAll("button")[0].addEventListener("click", function()
+
+for(var i = 0 ; i<document.querySelectorAll(".drum").length ;i++)
 {
-  alert("Selected");
-});
+  document.querySelectorAll(".drum")[i].addEventListener("click", function()
+  {
+    alert("Selected");
+  });
+}

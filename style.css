@@ -44,17 +44,8 @@ footer {
 
 .a {
   background-image: url("images/kick.png");
-  position: relative;
-  top: 180px;
-  right: 700px;
 }
 
-.set {
-  margin: 10% auto;
-  position: relative;
-  left: 80px;
-  bottom: 60px;
-}/*Space between elements*/
 
 .drum {
   font-size: 5rem;
